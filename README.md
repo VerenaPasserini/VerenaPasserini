@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Verena Passerini 👋
 
-<!--
-**VerenaPasserini/VerenaPasserini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatician** working on cancer genomics — somatic variant calling, targeted NGS, and clonal evolution analysis.
+I build reproducible, Snakemake-based pipelines that take raw sequencing data to annotated, high-confidence variants.
 
-Here are some ideas to get you started:
+- 🔬 Focus: targeted sequencing, somatic mutations, Panel of Normals, tumor phylogenies
+- 🛠️ Tools: Python · Snakemake · GATK · BWA · samtools · bcftools · R
+- 💼 Available for freelance bioinformatics projects
+- 🆔 [ORCID 0000-0003-4094-1502](https://orcid.org/0000-0003-4094-1502) · 📧 info@verenapasserini.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [AVANTseq](https://github.com/VerenaPasserini/AVANTseq) — Automated Variant Analysis for Next-gen Targeted Sequencing
+A modular Snakemake workflow for somatic variant calling from paired-end targeted NGS data in cancer research:
+custom Panel of Normals creation, GATK Mutect2 calling, Funcotator annotation, and FastQC/MultiQC reporting.
