@@ -1,6 +1,6 @@
 ![Turning complex data into clear stories — Bioinformatics · Data visualization · Scientific presentations](banner.png)
 
-# Hi, I'm Verena Passerini 👋
+# Hi, I'm Verena
 
 **Bioinformatician** specialised in NGS data analysis for cancer research — from raw reads to biological insight.
 I build reproducible pipelines and analyses across genomics, transcriptomics and epigenomics.
