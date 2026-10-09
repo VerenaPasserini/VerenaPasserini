@@ -2,7 +2,7 @@
 
 # Hi, I'm Verena
 
-**Bioinformatician** specialised in NGS data analysis for cancer research — from raw reads to biological insight.
+**Bioinformatician** specialised in NGS data analysis for cancer research, from raw reads to biological insight.
 I build reproducible pipelines and analyses across genomics, transcriptomics and epigenomics.
 I also help researchers and clinicians turn their results into clear figures and slides that people understand.
 
@@ -13,7 +13,7 @@ I also help researchers and clinicians turn their results into clear figures and
 - **RNA-seq** — differential expression, pathway and enrichment analysis
 - **Spatial transcriptomics** — spatially resolved gene expression analysis
 - **Methylome analysis** — DNA methylation profiling and differential methylation
-- **Data visualization & scientific communication** — publication-ready figures (R/ggplot2, plotly, Shiny) and slide makeovers
+- **Data visualization & scientific communication** — publication-ready figures (R/ggplot2, plotly, Shiny) for scientific presentations, posters or papers
 
 ### 🛠️ Tools
 R · Python · Snakemake · GATK · BWA · samtools · bcftools · ggplot2 · plotly · Shiny · Bash · Linux/HPC
