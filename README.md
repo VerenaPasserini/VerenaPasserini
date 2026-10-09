@@ -1,7 +1,10 @@
+![Turning complex data into clear stories — Bioinformatics · Data visualization · Scientific presentations](banner.png)
+
 # Hi, I'm Verena Passerini 👋
 
 **Bioinformatician** specialised in NGS data analysis for cancer research — from raw reads to biological insight.
 I build reproducible pipelines and analyses across genomics, transcriptomics and epigenomics.
+I also help researchers and clinicians turn their results into clear figures and slides that people understand.
 
 ### 🔬 What I work on
 - **NGS sequencing analysis** — QC, alignment, targeted, exome and whole-genome data
@@ -10,13 +13,15 @@ I build reproducible pipelines and analyses across genomics, transcriptomics and
 - **RNA-seq** — differential expression, pathway and enrichment analysis
 - **Spatial transcriptomics** — spatially resolved gene expression analysis
 - **Methylome analysis** — DNA methylation profiling and differential methylation
+- **Data visualization & scientific communication** — publication-ready figures (R/ggplot2, plotly, Shiny) and slide makeovers
 
 ### 🛠️ Tools
-R · Python · Snakemake · GATK · BWA · samtools · bcftools · Bash · Linux/HPC
+R · Python · Snakemake · GATK · BWA · samtools · bcftools · ggplot2 · plotly · Shiny · Bash · Linux/HPC
 
 ### 📫 Contact
 💼 [LinkedIn](https://www.linkedin.com/in/verenapasserini) · 🆔 [ORCID](https://orcid.org/0000-0003-4094-1502) · 📧 info@verenapasserini.com
-🤝 Available for freelance bioinformatics projects
+
+🤝 Available for freelance bioinformatics, data visualization and scientific communication projects
 
 ## Featured project
 
